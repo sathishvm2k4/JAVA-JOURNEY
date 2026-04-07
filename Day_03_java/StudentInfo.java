@@ -17,9 +17,8 @@ public class StudentInfo {
     }
     
 }
-//Day 3 - Variables & Data Types
-
-//Learned:
-//- Variables in Java
-//- Different data types
-// Project: Student Info Program 🚀
+/*Day 3 - Variables & Data Types
+Learned:
+     Variables in Java
+     Different data types
+     Project: Student Info Program */

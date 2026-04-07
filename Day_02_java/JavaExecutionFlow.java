@@ -11,9 +11,9 @@ public class JavaExecutionFlow {
     }
 
 }
-//Day 2 - How Java Works
+/*Day 2 - How Java Works
 
-//Learned:
-//- Java compilation process
-//- JVM and bytecode
-// Project: Program explaining Java execution flow 🚀
+Learned:
+    - Java compilation process
+    - JVM and bytecode
+    Project: Program explaining Java execution flow 🚀*/

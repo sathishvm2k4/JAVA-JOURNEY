@@ -6,8 +6,8 @@ public class Hellojava {
         System.out.println("Excited to learn and grow 🚀");
     }
 }
-// Day 1 - Java Basics
-//- Learned what Java is
-//- Understood how Java code runs
-//- Wrote my first program
-// Project:Hello Java Program 🚀
+/*  Day 1 - Java Basics
+ - Learned what Java is
+ - Understood how Java code runs
+ - Wrote my first program
+  Project:Hello Java Program 🚀*/
